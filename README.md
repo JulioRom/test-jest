@@ -41,8 +41,8 @@ npm test
 ```
 
 ## Estructura del Proyecto
-- **currency_conversion.js**: Contiene las funciones de conversión monetaria.
-- **currency_conversion_tests.js**: Contiene las pruebas unitarias escritas con Jest.
+- **app.js**: Contiene las funciones de conversión monetaria.
+- **tests.js**: Contiene las pruebas unitarias escritas con Jest.
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, crea un pull request o abre un issue para discutir cualquier mejora o corrección.
